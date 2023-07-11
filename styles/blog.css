@@ -222,3 +222,19 @@ flex-shrink: 0;
 border-radius: 8px;
 background: #FFF;
 }
+.shop{
+    width: 300px;
+height: 200px;
+flex-shrink: 0;
+background: #111010;
+padding: 210px 649px 179px 648px;
+}
+.texttitle{
+    color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+text-align: center;
+}
