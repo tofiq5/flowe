@@ -1,0 +1,224 @@
+.body{
+    width: 1920px;
+height: 4867px;
+background: #FFF;
+}
+.banner {
+    background: rgba(229, 84, 115, 0.10);
+    width: 1920px;
+    height: 850px;
+    flex-shrink: 0;
+    display: flex;
+    margin-bottom: 50px;
+    
+}
+
+.banner-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-weight: 800;
+    display: flex;
+    width: 708px;
+    flex-direction: column;
+    flex-shrink: 0;
+    padding: 150px 97px 32px 180px;
+    
+}
+
+.banner-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    display: flex;
+    width: 634px;
+    flex-direction: column;
+    flex-shrink: 0;
+    padding:20px 171px 32px 180px;
+}
+.primary{
+    padding:20px 171px 32px 180px;
+}
+
+.btn-primary {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+    
+}
+
+.profile-picture{
+    width: 635px;
+height: 800px;
+flex-shrink: 0;
+padding: 50px 240px 4017px 140px;
+}
+.skills-container {
+    display: flex;
+    gap: 300px;
+    width: 1440px;
+height: 320px;
+flex-shrink: 0;
+border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+padding: 128px 237px 128px 250px;
+margin-bottom: 10%;
+
+}
+
+.skill {
+    padding: 30px;
+    border-radius: 5px;
+
+    
+    
+}
+
+.skill-description {
+    color: #757575;
+}
+
+.hot{
+    display: flex;
+    gap: 300px;
+    width: 1922px;
+height: 650px;
+flex-shrink: 0;
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+margin-bottom: 10%;
+
+
+}
+
+
+.hot-title {
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding: 230px 215px 24px 250px;
+    
+}
+
+.hot-description {
+    display: flex;
+width: 594px;
+flex-direction: column;
+flex-shrink: 0;
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+padding: 24px 186px 32px 195px;
+}
+.hotbutton{
+    color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding: 10px 417px 162px 380px;
+
+}
+
+.hot-primary {
+    display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+    
+}
+
+.hot-picture{
+    width: 318px;
+height: 420px;
+flex-shrink: 0;
+padding: 100px 429px 100px 100px;
+
+}
+.insta-title{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+
+.insta-container {
+    display: flex;
+    gap: 24px;
+}
+
+.instaskill {
+    padding: 30px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+
+.instaskill-description {
+    color: #757575;
+    
+}
+
+.task{
+    width: 1440px;
+height: 449px;
+flex-shrink: 0;
+border-radius: 8px;
+background-image: url("/flowe assets/Rectangle\ 9.png");
+margin-top: 10%;
+padding: 128px 240px 128px 240px;
+background-repeat: no-repeat;
+
+}
+.tasktitle{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+}
+.taskdesk{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.search-container, .taskbar{
+    width: 700px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #FFF;
+}
